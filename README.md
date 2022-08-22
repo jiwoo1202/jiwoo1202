@@ -21,4 +21,4 @@ tech stack!!
 <img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=-C++&logoColor=00599C"/>
 
 
-<div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwoo1202&layout=compact&theme=tokyonight)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwoo1202&show_icons=true&theme=tokyonight)</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwoo1202&layout=compact&theme=tokyonight)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwoo1202&show_icons=true&theme=tokyonight)
