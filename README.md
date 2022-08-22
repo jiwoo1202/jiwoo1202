@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+tech stack!!
 <img src="https://img.shields.io/badge/C-grey?style=flat&logo=C&logoColor=A8B9CC"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwoo1202&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
