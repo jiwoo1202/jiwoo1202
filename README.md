@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 tech stack!!
 #
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c++&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=00599C"/>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwoo1202&layout=compact&theme=tokyonight)
