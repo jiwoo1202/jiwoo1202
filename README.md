@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 <div align="center"><b> tech stack!!
 </br>
-</div>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=-C++&logoColor=00599C"></a> 
+</div>
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwoo1202&layout=compact&theme=tokyonight)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwoo1202&show_icons=true&theme=tokyonight)
