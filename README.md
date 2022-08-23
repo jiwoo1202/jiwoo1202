@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-tech stack!!</b></h18>
+<div align="center"><b> tech stack!!
+</br>
+</div>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=-C++&logoColor=00599C"></a> 
