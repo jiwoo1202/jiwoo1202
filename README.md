@@ -12,7 +12,7 @@
 
 <div align=center>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwoo1202&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+<img src="https://github-readmestats.vercel.app/api/toplangs/username=jiwoo1202&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="42%"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jiwoo1202&theme=tokyonight&show_icons=true" width="42%" />
 
 </div>
