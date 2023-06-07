@@ -12,7 +12,7 @@
 
 <div align=center>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwoo1202&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwoo1202&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 ![Top Langs](https://[github-readme-state-murex.vercel.app](https://github.com/anuraghazra/github-readme-stats.git)/api/top-langs/?username=jiwoo1202&layout=compact&theme=tokyonight)
 
 </div>
