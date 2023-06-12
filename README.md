@@ -1,10 +1,14 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jiwoo's%20gitHub&fontSize=90&animation=fadeIn&fontAlignY=38&!&descAlignY=51&descAlign=62)
 <div align=center><h1> Hello! 👋</h1></div>
 
-<div align="center"><b> tech stack!!
+<div align="center"><b> Front-end Stack
+  <div height='4px'></div>
 </br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenjDk&logoColor=white"> 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-  
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white"/>
 </div>
 <hr>
 
