@@ -12,7 +12,7 @@
 </div>
 <div height = '20px'></div>
 <div align="center"><b> Back-end Stack
-  <div height='4px'></div>
+  <div height='10px'></div>
 </br>
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white"/>  
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white"/>
