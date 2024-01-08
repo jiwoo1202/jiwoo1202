@@ -10,16 +10,15 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white"/>
 </div>
-<hr>
-<div align="center"><b> Front-end Stack
+<div height = '20px'></div>
+<div align="center"><b> Back-end Stack
   <div height='4px'></div>
 </br>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenjDk&logoColor=white"> 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white"/>  
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white"/>
 </div>
+
+<div height = '20px'></div>
 <div align=center>
 
 <a href="s">
